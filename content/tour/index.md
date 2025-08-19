@@ -8,11 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-weight:800;color:#0b1b47">C</span><span style="font-size:0.8em">omputer</span><br>
-        <span style="font-weight:800;color:#0b1b47">A</span><span style="font-size:0.8em">nd</span><br>
-        <span style="font-weight:800;color:#0b1b47">M</span><span style="font-size:0.8em">achine</span><br>
-        <span style="font-weight:800;color:#0b1b47">E</span><span style="font-size:0.8em">ngaged</span><br>
-        <span style="font-weight:800;color:#0b1b47">L</span><span style="font-size:0.8em">ab</span>
+        <span style="font-weight:800;color:#005baa">C</span><span style="font-size:0.8em">omputer</span><br>
+        <span style="font-weight:800;color:#005baa">A</span><span style="font-size:0.8em">nd</span><br>
+        <span style="font-weight:800;color:#005baa">M</span><span style="font-size:0.8em">achine</span><br>
+        <span style="font-weight:800;color:#005baa">E</span><span style="font-size:0.8em">ngaged</span><br>
+        <span style="font-weight:800;color:#005baa">L</span><span style="font-size:0.8em">ab</span>
       image:
         filename: canine/canine1.png
       text: |
